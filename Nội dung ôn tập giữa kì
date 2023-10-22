@@ -1,0 +1,14 @@
+1. VLAN, mô hình VLAN
+2. STP
+3. Định tuyến router(NVRAM, lệnh ip route)
+4. OSPF
+5. Cấu hình địa chỉ IP
+6. Kĩ thuật chia mạng con, các kĩ thuật tính toán subnet mask, địa chỉ mạng, địa chỉ IP
+7. Switch
+8. Trình tự đóng gói dữ liệu
+9. Đấu dây mạng
+10. Các thiết bị và tầng hoạt động 
+11. Metric cost và các giao thức định tuyến
+12. Bảng chuyển mạch Switch
+13. Các kĩ thuật định tuyến
+14. Cấu hình mạng chung.
